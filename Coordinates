@@ -1,0 +1,111 @@
+def MarketSquareCentre():
+    Lat1 = 53.076162
+    Long1 = -0.809065
+    print(Lat1)
+    print(Long1)
+
+def Castle():
+    Lat2 = 53.077615
+    Long2 = -0.812434
+    print(Lat2)
+    print(Long2)
+
+def SirJohnArdene():
+    Lat3 = 53.076648
+    Long3 = -0.809306
+    print(Lat3)
+    print(Long3)
+
+def PalaceTheatre():
+    Lat4 = 53.076842
+    Long4 = -0.80627
+    print(Lat4)
+    print(Long4)
+
+def CornExchange():
+    Lat5 = 53.07679
+    Long5 = -0.812616
+    print(Lat5)
+    print(Long5)
+
+def TheRobinHoodHotel():
+    Lat6 = 53.074657
+    Long6 = -0.810058
+    print(Lat6)
+    print(Long6)
+
+def ThePrinceRupert():
+    Lat7 = 53.076329
+    Long7 = -0.812213
+    print(Lat7)
+    print(Long7)
+
+def GovernersHouse():
+    Lat8 = 53.075962
+    Long8 = -0.809929
+    print(Lat8)
+    print(Long8)
+
+def TheClayTavern():
+    Lat9 = 53.077802
+    Long9 = -0.808475
+    print(Lat9)
+    print(Long9)
+
+def TheOssington():
+    Lat10 = 53.078234
+    Long10 = -0.811436
+    print(Lat10)
+    print(Long10)
+
+def NewarkOdinistTemple():
+    Lat11 = 53.075694
+    Long11 = -0.806001
+    print(Lat11)
+    print(Long11)
+
+def OtterPark():
+    Lat12 = 53.07535
+    Long12 = -0.815687
+    print(Lat12)
+    print(Long12)
+
+
+location = input("Where are you?\n")
+
+if location == 'Market square centre':
+    MarketSquareCentre()
+
+elif location == 'Castle':
+    Castle()
+
+elif location == 'Sir John Ardene':
+    SirJohnArdene()
+
+elif location == 'Palace theatre':
+    PalaceTheatre()
+
+elif location == 'Corn exchange':
+    CornExchange()
+
+elif location == 'The robin hood hotel':
+    TheRobinHoodHotel()
+
+elif location == 'The prince rupert':
+    ThePrinceRupert()
+
+elif location == 'Governers house':
+    GovernersHouse()
+
+elif location == 'The clay tavern':
+    TheClayTavern()
+
+elif location == 'The ossington':
+    TheOssington()
+
+elif location == 'Newark odinist temple':
+    NewarkOdinistTemple()
+
+elif location == 'Otter park':
+    OtterPark()
+
